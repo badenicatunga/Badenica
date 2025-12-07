@@ -1,0 +1,6 @@
+{
+  "luma": "światło",
+  "kara": "dom",
+  "velin": "człowiek",
+  "mora": "noc"
+}
